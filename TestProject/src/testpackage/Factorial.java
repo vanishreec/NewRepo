@@ -17,5 +17,6 @@ public class Factorial
 		}
 		
 		System.out.println(fact);
+		System.out.println("AT GIT");
 	}
 }
