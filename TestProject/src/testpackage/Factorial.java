@@ -19,5 +19,6 @@ public class Factorial
 		System.out.println(fact);
 		System.out.println("AT GIT");
 		System.out.println("AT GIT2");
+		System.out.println("new");
 	}
 }
